@@ -1,0 +1,8 @@
+name: sticky
+summary: This is a no-op service.
+maintainer: Phui Hock <phuihock@codekaki.com>
+description: |
+  Deploy this service to any machine as a stand-in service to prevent the machine
+  from self-destroying when all the services are destroyed.
+tags:
+  - misc
